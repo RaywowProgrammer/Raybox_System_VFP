@@ -1,0 +1,8 @@
+ELSE  
+Error in line 115: An IF | ELSE | ENDIF statement is missing.
+DEACTIVATEVATE WINDOW ingreso, men, cliente, X, XX, total
+Error in line 117: Unrecognized command verb.
+ENDIF 
+Error in line 120: An IF | ELSE | ENDIF statement is missing.
+endcase 
+Error in line 128: There is a missing keyword in the FOR...ENDFOR or DO CASE...ENDCASE command structure.
